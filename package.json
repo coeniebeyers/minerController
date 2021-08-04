@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "influx": "^5.9.2",
+    "node-abort-controller": "^2.0.0",
+    "node-fetch": "^2.6.1",
+    "nodeplotlib": "^0.7.5"
+  }
+}
